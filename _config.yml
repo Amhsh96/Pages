@@ -1,7 +1,11 @@
 title: Amirhossein's homepage
 description: >- # A short description of your site
-  Welcome to my weboage
+  Welcome to my webpage
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 plugins:
   - jekyll-remote-theme
+
+author:
+  name: Amirhossein Shaker
+  email: shaker.amir.h@gmail.com
