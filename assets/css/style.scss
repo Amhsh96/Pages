@@ -1,1 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";  /* import base theme */
+
+/* Example overrides */
+:root {
+  --bg-color: #f5f5f5;
+  --text-color: #222222;
+  --link-color: #0077cc;
+}
 
