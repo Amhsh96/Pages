@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";  /* import base theme */
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); /* font family*/
 /* Example overrides */
 :root {
   --bg-color: #ADD8E6 !important;
