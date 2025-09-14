@@ -12,5 +12,5 @@ plugins:
 minima:
   skin: dark
 author:
-  name: John Smith
+  #name: John Smith
   email: "john.smith@foobar.com"
