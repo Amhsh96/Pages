@@ -9,3 +9,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+minima:
+  skin: solarized
+author:
+  #name: John Smith
+  email: "mailto:john.smith@foobar.com"
+minima:
+  social_links:
+    email: "mailto:yourname@example.com"
