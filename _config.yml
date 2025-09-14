@@ -14,4 +14,11 @@ minima:
 author:
   #name: John Smith
   #email: "mailto:john.smith@foobar.com"
+minima:
+  nav_pages:
+    - home.md
+    - cv.md
+    - Projects.md
+    - Contact.md
+    
 
