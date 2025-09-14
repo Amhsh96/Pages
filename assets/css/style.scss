@@ -4,16 +4,29 @@
 @import "{{ site.theme }}";  /* import base theme */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); /* font family*/
 /* Example overrides */
-:root {
-  --bg-color: #ADD8E6 !important;
-  --text-color: #222222 !important;
-  --link-color: #0077cc !important;
-}
+
+/* Body background */
 body {
-  font-family: 'Montserrat', sans-serif !important;
-  background-color: #ADD8E6 !important; /* light blue */
-  color: #333333 !important;
+  background-color: #ADD8E6;   /* light blue */
+  color: #333333;              /* dark gray text */
 }
+
+/* Headings */
 h1, h2, h3 {
   color: #222222;
 }
+
+/* Links */
+a {
+  color: #0077cc;
+}
+
+a:hover {
+  color: #ff6600;
+}
+
+/* Optional: Full page background for Minima layout */
+.site {
+  background-color: #ADD8E6;
+}
+
