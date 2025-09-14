@@ -3,7 +3,7 @@ exclude:
 title: Amirhossein's homepage
 description: >- # A short description of your site
   I write about mathematics here!
-theme: jekyll-theme-minima
+theme: minima
 
 plugins:
   - jekyll-feed
