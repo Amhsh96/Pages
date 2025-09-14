@@ -1,7 +1,7 @@
 title: Amirhossein's homepage
 description: >- # A short description of your site
   I write about mathematics here!
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: mattvh/solar-theme-jekyll
 
 plugins:
   - jekyll-remote-theme
