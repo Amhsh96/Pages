@@ -9,7 +9,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
-
-author:
-  name: Amirhossein Shaker
-  email: shaker.amir.h@gmail.com
