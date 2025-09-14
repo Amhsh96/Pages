@@ -10,3 +10,20 @@
   margin: 0;             /* remove default paragraph margin */
   padding-left: 20px;    /* push text inward from the left */
 }
+
+/* custom.css */
+
+/* Change background and text */
+:root {
+  --bg-color: #111111;       /* dark background */
+  --text-color: #f0f0f0;     /* light text */
+  --link-color: #ff9900;     /* orange links */
+  --link-hover-color: #00ccff;
+}
+
+/* Apply them */
+body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}
+
