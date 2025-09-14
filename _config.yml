@@ -13,4 +13,4 @@ minima:
   skin: solarized
 author:
   #name: John Smith
-  email: "john.smith@foobar.com"
+  email: "mailto:john.smith@foobar.com"
