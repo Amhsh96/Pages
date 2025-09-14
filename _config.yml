@@ -3,10 +3,11 @@ exclude:
 title: Amirhossein's homepage
 description: >- # A short description of your site
   I write about mathematics here!
-remote_theme: mattvh/solar-theme-jekyll
+theme: jekyll-theme-minima
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+ - jekyll-seo-tag
 
 author:
   name: Amirhossein Shaker
