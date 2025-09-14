@@ -1,0 +1,12 @@
+/* Target only your custom footer */
+.custom-footer {
+  margin-top: 2rem;      /* space above the footer */
+  padding: 1rem 2rem;    /* inner spacing: top/bottom 1rem, left/right 2rem */
+  text-align: center;    /* or left/right depending on layout */
+}
+
+/* Control where the text begins */
+.custom-footer p {
+  margin: 0;             /* remove default paragraph margin */
+  padding-left: 20px;    /* push text inward from the left */
+}
