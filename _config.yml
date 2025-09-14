@@ -9,8 +9,3 @@ plugins:
 author:
   name: Amirhossein Shaker
   email: shaker.amir.h@gmail.com
-navbar:
-  - name: Home
-  - link: /
-  - name: CV
-  - link: /CV
