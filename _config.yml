@@ -11,3 +11,6 @@ plugins:
   - jekyll-paginate
 minima:
   skin: dark
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
