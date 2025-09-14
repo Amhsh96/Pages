@@ -10,7 +10,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 minima:
-  skin: dark
+  skin: solarized
 author:
   #name: John Smith
   email: "john.smith@foobar.com"
