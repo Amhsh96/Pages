@@ -7,7 +7,8 @@ theme: jekyll-theme-minima
 
 plugins:
   - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 author:
   name: Amirhossein Shaker
