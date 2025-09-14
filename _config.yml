@@ -1,3 +1,5 @@
+exclude:
+- README.md
 title: Amirhossein's homepage
 description: >- # A short description of your site
   I write about mathematics here!
